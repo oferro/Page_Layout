@@ -1,0 +1,29 @@
+h1, p , ul {
+	margin: 0px
+}
+
+.container {
+	position: relative;
+	top: 0px;
+	right: 0px;
+	direction: rtl;
+	text-align: right;
+	}
+
+nav { 
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 200px;
+	}
+
+section{
+	position:relative;
+	top: 0px;
+	right: 200px;
+	max-width: 600px;	
+}
+
+fotter>p {
+	margin-top: 30px;
+}
