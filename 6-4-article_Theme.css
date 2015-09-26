@@ -1,0 +1,47 @@
+h1, p, ul {
+	margin: 0px
+}
+
+body {
+	direction: rtl;
+	margin-bottom: 30px;
+	text-align: right;
+}
+
+.container {
+	position: relative;
+	top: 0px;
+	right: 0px;
+}
+
+nav {
+	position: relative;
+	right: 0px;
+	top: 0px;
+	width: 150px;
+	height: 100px;
+	border: solid 2px black;
+	padding: 30px 10px;
+	float: right;
+	margin: 0px 10px 10px 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+article {
+	position: relative;
+	top: 0px;
+	right: 0;
+	max-width: 500px;
+}
+
+.lin-hed {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+article > p {
+	margin-bottom: 10px;
+}
